@@ -1,4 +1,5 @@
 name: CI | Basic amd64 tests
+
 on:
   workflow_call:
     inputs:
